@@ -1,0 +1,7 @@
+# Folder
+/target
+
+# File
+.env
+*.lock
+*.sh
